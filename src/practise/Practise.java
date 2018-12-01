@@ -8,5 +8,7 @@ public class Practise {
         int result = x + y;
         System.out.println("result = " + result);
 
+
+
     }
 }
